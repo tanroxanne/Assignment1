@@ -131,7 +131,5 @@ input[type=submit] {
 .table{
   border-collapse:separate;
   border-spacing:10px;
-  border: 1px;
-  border-color: #E5E5E5;
-  font: 87.5%;
+  font-size: 87.5%;
 }
