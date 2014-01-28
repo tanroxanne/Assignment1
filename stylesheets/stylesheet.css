@@ -128,7 +128,7 @@ input[type=submit] {
   background-color: #A20D1E;
 }
 
-table{
+.table{
   border-collapse:separate;
   border-spacing:10px;
   border: 1px;
