@@ -127,9 +127,3 @@ input[type=submit] {
   font-size: 80%;
   background-color: #A20D1E;
 }
-
-.table{
-  border-collapse:separate;
-  border-spacing:10px;
-  font-size: 87.5%;
-}
