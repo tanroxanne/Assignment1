@@ -35,51 +35,6 @@ body{
   padding: 20px 0 30px 30px;
 }
 
-.container {
-  margin: 80px auto;
-  width: 640px;
-}
-
-.login {
-  position: relative;
-  margin: 0 auto;
-  padding: 20px;
-  width: 310px;
-  height: 160px;
-  background: white;
-  border-radius: 3px;
-}
-
-input {
-  font-family: Cambria, Georgia, serif;
-  font-size: 14px;
-}
-  
-input[type=text], input[type=password] {
-  margin: 5px;
-  padding: 0 10px;
-  width: 300px;
-  height: 34px;
-  color: #404040;
-  background: white;
-  border: 1px solid;
-  border-color: #FFE2DF #F6B1C3 #F6B1C3 #FFE2DF;
-  border-radius: 2px;
-  outline: 5px solid #FFE2DF;
-}
-
-input[type=submit] {
-  float: right;
-  padding: 0 18px;
-  height: 29px;
-  font-weight: bold;
-  color: #A20D1E;
-  background: #FFE2DF;
-  border: 1px solid;
-  border-color: #FFE2DF #F6B1C3 #F6B1C3 #FFE2DF;
-  outline: 0;
-}
-
 .banner{
   position: absolute;
   left: 0px;
