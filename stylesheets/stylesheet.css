@@ -127,3 +127,13 @@ input[type=submit] {
   font-size: 80%;
   background-color: #A20D1E;
 }
+
+table{
+  border-collapse:separate;
+  border-spacing:10px;
+}
+
+tr .td{
+  border: 1px;
+  border-color: #E5E5E5;
+}
